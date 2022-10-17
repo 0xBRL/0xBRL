@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xBRL
 - 👀 I’m interested in web3.0
-- 🌱 I’m currently learning solidty
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on web3 projects
 
 <!---
